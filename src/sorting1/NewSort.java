@@ -15,6 +15,7 @@ public class NewSort {
 	            }
 	            arr[j + 1] = key;
 	        }
+	        
 	    }
 	  
 	  
